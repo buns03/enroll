@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Josefin Sans', sans-serif;
-    background: url('/lcc.jpg') no-repeat center center fixed;
+    background: url('/resources/lcc.jpg') no-repeat center center fixed;
     background-size: cover;
     margin: 0;
     padding: 0;
